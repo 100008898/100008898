@@ -1,5 +1,5 @@
 - Hi, I’m Stéphane Papillon
-- Image quality architect in General lectric Healthcare company
+- Image quality architect in General Electric Healthcare company
 - How to reach me : stephane.papillon@med.ge.com
 
 <!---
